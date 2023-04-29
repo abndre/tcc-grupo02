@@ -38,8 +38,8 @@ Na pasta [analise-de-dados](analise-de-dados), temos as principais analise do tr
 
 ## 3.2 Analise dos tweets dos influencer
 
-[Arquivo](/analise-de-dados/Analise%20de%20dados%20do%20Twitter.ipynb)
+[Arquivo](/analise-de-dados/Analise%20de%20dados%20dos%20Twettes%20dos%20influencer.ipynb)
 
 ## 3.3 Analise da iteracao dos tweets dos influencer pela comunidade
 
-[Arquivo](/analise-de-dados/Analise%20de%20dados%20dos%20iteracoes.ipynb)
+[Arquivo](/analise-de-dados/Analise%20de%20dados%20das%20iteracoes%20dos%20tweets.ipynb)

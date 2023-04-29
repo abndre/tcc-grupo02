@@ -32,14 +32,14 @@ Na pasta [data/tweet_iteracoes](data/tweet_iteracoes/) temos os dados as iteraco
 
 Na pasta [analise-de-dados](analise-de-dados), temos as principais analise do trabalho:
 
-# 3.1 Analise dos influencer
+## 3.1 Analise dos influencer
 
 [Arquivo](/analise-de-dados/Analise%20de%20dados%20dos%20Influencer.ipynb)
 
-# 3.2 Analise dos tweets dos influencer
+## 3.2 Analise dos tweets dos influencer
 
 [Arquivo](/analise-de-dados/Analise%20de%20dados%20do%20Twitter.ipynb)
 
-# 3.3 Analise da iteracao dos tweets dos influencer pela comunidade
+## 3.3 Analise da iteracao dos tweets dos influencer pela comunidade
 
 [Arquivo](/analise-de-dados/Analise%20de%20dados%20dos%20iteracoes.ipynb)
